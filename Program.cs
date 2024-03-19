@@ -19,3 +19,11 @@ void CreateFilter()
     }
 }
 
+void PrintFilter()
+{
+    for (int i = 0; i < filter.Length; i++)
+    {
+        System.Console.Write(filter[i] + " ");
+    }
+}
+
