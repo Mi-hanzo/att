@@ -1,0 +1,15 @@
+/Users/mihanzo/Desktop/att/bin/Debug/net8.0/att
+/Users/mihanzo/Desktop/att/bin/Debug/net8.0/att.deps.json
+/Users/mihanzo/Desktop/att/bin/Debug/net8.0/att.runtimeconfig.json
+/Users/mihanzo/Desktop/att/bin/Debug/net8.0/att.dll
+/Users/mihanzo/Desktop/att/bin/Debug/net8.0/att.pdb
+/Users/mihanzo/Desktop/att/obj/Debug/net8.0/att.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mihanzo/Desktop/att/obj/Debug/net8.0/att.AssemblyInfoInputs.cache
+/Users/mihanzo/Desktop/att/obj/Debug/net8.0/att.AssemblyInfo.cs
+/Users/mihanzo/Desktop/att/obj/Debug/net8.0/att.csproj.CoreCompileInputs.cache
+/Users/mihanzo/Desktop/att/obj/Debug/net8.0/att.sourcelink.json
+/Users/mihanzo/Desktop/att/obj/Debug/net8.0/att.dll
+/Users/mihanzo/Desktop/att/obj/Debug/net8.0/refint/att.dll
+/Users/mihanzo/Desktop/att/obj/Debug/net8.0/att.pdb
+/Users/mihanzo/Desktop/att/obj/Debug/net8.0/att.genruntimeconfig.cache
+/Users/mihanzo/Desktop/att/obj/Debug/net8.0/ref/att.dll

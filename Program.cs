@@ -3,7 +3,7 @@
 // При решении не рекомендуется пользоваться коллекциями, лучше обойтись исключительно массивами.
 
 
-string[] original = { "efew", "ff", "23f4", "4ga", "rew", "fdfd2", "jlo", "tyzs" };
+string[] original = ["efew", "ff", "23f4", "4ga", "rew", "fdfd2", "jlo", "tyzs"];
 string[] filter = new string[original.Length];
 int i2 = 0;
 
